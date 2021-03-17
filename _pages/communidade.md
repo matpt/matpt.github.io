@@ -68,8 +68,8 @@ ul.team-members-list li.team-member:last-of-type {
   {% for p in sorted %}
     <li class="team-member">
       <div class="team-member-photo">
-        {% if e.image %}
-          <img src="{{p.image | relative_url}}" alt="{{p.given_name}} {{p.surname}}" style="width: 200px;">
+        {% if p.image %}
+          <img src="{{p.image}}" alt="{{p.given_name}} {{p.surname}}" style="width: 200px;">
         {% else %}
           <div style="width: 200px; height: 200px;"></div>
         {% endif %}

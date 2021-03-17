@@ -71,7 +71,7 @@ ul.events-list li.event-single:last-of-type {
     <li class="event-single">
       <div class="event-photo">
         {% if e.image %}
-          <img src="{{e.image | relative_url}}" style="width: 200px;">
+          <img src="{{e.image}}" style="width: 200px;">
         {% else %}
           <div style="width: 200px; height: 200px;"></div>
         {% endif %}
