@@ -23,7 +23,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-PT"
-title                    : "Matemáticos portugueses no mundo"
+title                    : "Matemáticos Portugueses no Mundo"
 title_separator          : "-"
 subtitle                 : ""
 # name                     : "Your Name"
