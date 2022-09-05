@@ -1,9 +1,9 @@
 ---
-title: Encontro nacional SPM 2021
-link: https://enspm2021.spmatematica.online/
+title: Encontro Nacional da SPM - 2021
+link: https://pt.enspm2021.spm.pt/
 number: 1
-date_string: July 12-16, 2021
+date_string: Julho 12-16, 2021
 image: /assets/images/spm.png
 
 ---
-Nam sed mauris sit amet quam tincidunt suscipit. Fusce quis erat eget massa malesuada fringilla. Sed vel urna iaculis, finibus turpis in, fermentum nibh. Curabitur pulvinar mollis fringilla. Fusce ut lorem a elit eleifend imperdiet a fermentum magna. Fusce pretium mauris non metus iaculis elementum. Donec eget ante quis metus dignissim ullamcorper. Phasellus ut elit dictum, placerat urna eu, rhoncus nulla. 
+O encontro nacional da SPM de 2021 decorreu totalmente online, entre 12 e 16 de Julho. Para além das sessões paralelas, houve lugar a 20 palestras por oradores convidados de grande prestígio internacional.
