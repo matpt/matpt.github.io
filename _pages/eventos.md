@@ -1,6 +1,6 @@
 ---
 permalink: /eventos/
-title: Events, Meetings, Workshops, and Conferences
+title: Conferências e outros eventos
 ---
 
 <div id="main" role="main">
