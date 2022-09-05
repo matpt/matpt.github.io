@@ -1,9 +1,9 @@
 ---
-title: Encontro nacional SPM 2021
-link: https://enspm2021.spmatematica.online/
+title: Encontro Nacional da SPM 2022
+link: https://enspm2022.spm.pt/
 number: 1
-date_string: July 12-16, 2021
+date_string: July 18-20, 2022
 image: /assets/images/spm.png
 
 ---
-Nam sed mauris sit amet quam tincidunt suscipit. Fusce quis erat eget massa malesuada fringilla. Sed vel urna iaculis, finibus turpis in, fermentum nibh. Curabitur pulvinar mollis fringilla. Fusce ut lorem a elit eleifend imperdiet a fermentum magna. Fusce pretium mauris non metus iaculis elementum. Donec eget ante quis metus dignissim ullamcorper. Phasellus ut elit dictum, placerat urna eu, rhoncus nulla. 
+O encontro nacional da SPM de 2022, decorreu em Tomar, entre os dias 18 e 20 de Julho. Foram apresentados 14 palestras de oradores convidados, e houve 44 sessões paralelas nas diversas áreas da Matemática.
