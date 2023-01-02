@@ -6,4 +6,6 @@ personal_webpage: https://sites.google.com/view/goncalo-oliveira-math-webpage/ho
 image: /assets/images/people/GoncaloOliveira.jpg
 
 ---
-Maecenas est mauris, eleifend at fermentum sed, ullamcorper eget tortor. Suspendisse eleifend orci id nibh tempor, sed fringilla tellus dictum. Quisque at euismod justo. Aenean vestibulum massa quis justo dapibus ultrices eu sed lorem. Ut ut felis mauris. Praesent orci arcu, dapibus vitae finibus eget, viverra vitae tellus. Cras cursus, urna eget gravida rhoncus, felis massa mattis tortor, ut ultricies arcu nunc a nunc. Ut lacinia laoreet mollis. Curabitur scelerisque ac augue ut rutrum. Etiam sit amet leo pharetra, tempus velit sit amet, lacinia nulla. Mauris eu ipsum non ante porttitor mollis. Vestibulum rhoncus diam vel elementum commodo.
+Since November 2021 I have been a NOMIS Fellow at IST Austria working in the Hausel group. Previously, I had positions as an Assistant Professor at Universidade Federal Fluminense (UFF) (2018-2021), a postdoc in IMPA (2017-2018) and as an Elliot Assistant Research Professor at Duke University (2014-2017). I also had a visiting scientist position at the Max Planck Institute in Bonn (Germany), which I visited for the summer of 2015. 
+
+I completed my PhD in 2014 at Imperial College London, under the supervision of Sir Simon Donaldson. 
