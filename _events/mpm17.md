@@ -1,8 +1,8 @@
 ---
-title: Matemáticos Portugueses pelo Mundo 2017
-link: https://enspm2022.spm.pt/
-number: 1
-date_string: July 18-20, 2022
+title: Matemáticos Portugueses no Mundo 2017
+link: [https://mpm.math.tecnico.ulisboa.pt/]
+number: 3
+date_string: July 18-20, 2017
 image: /assets/images/spm.png
 
 ---
