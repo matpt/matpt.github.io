@@ -1,10 +1,9 @@
 ---
-title: Encontro Nacional da SPM - 2019
-link: https://pt.enspm2021.spm.pt/
+title: Global portuguese mathematicians - 2019
+link: https://cmup.fc.up.pt/matematicos/
 number: 2
-date_string: Julho 12-16, 2021
-image: /assets/images/spm.png
+date_string: Porto 24-26, 2019
+image: /assets/images/logoandorinha.png
 
 ---
-O encontro nacional da SPM de 2021 decorreu totalmente online, entre 12 e 16 de Julho. 
-Para além das sessões paralelas, houve lugar a 20 palestras por oradores convidados de grande prestígio internacional.
+A Conferencia "Matemáticos Portugueses pelo Mundo" tem como objectivo colocar em contacto matemáticos portugueses, ou com forte ligação a Portugal e que trabalham em diversas partes do mundo. Esta segunda edição teve lugar no Porto.
