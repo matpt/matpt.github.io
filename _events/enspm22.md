@@ -1,7 +1,7 @@
 ---
 title: Encontro Nacional da SPM 2022
 link: https://enspm2022.spm.pt/
-number: 1
+number: 4
 date_string: July 18-20, 2022
 image: /assets/images/spm.png
 
