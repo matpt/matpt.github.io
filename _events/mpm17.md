@@ -2,9 +2,10 @@
 title: Matemáticos Portugueses no Mundo 2017
 link: [https://mpm.math.tecnico.ulisboa.pt/]
 number: 3
-date_string: July 18-20, 2017
-image: /assets/images/spm.png
+date_string: July 13-14, 2017
+image: /assets/images/matematicos-portugueses-no-mundo-1140x641.jpg
 
 ---
-O encontro nacional da SPM de 2022, decorreu em Tomar, entre os dias 18 e 20 de Julho. 
-Foram apresentados 14 palestras de oradores convidados, e houve 44 sessões paralelas nas diversas áreas da Matemática.
+The Conference "Global Portuguese Mathematicians" aims at bringing together 
+portuguese mathematicians working in different parts of the world. 
+This first event took place at IST, Lisbon. 
