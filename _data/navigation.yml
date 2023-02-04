@@ -6,3 +6,5 @@ main:
     url: /eventos/
   - title: "Novidades"
     url: /novidades/
+  - title: "Dinamização"
+    url: /dinamizacao/
