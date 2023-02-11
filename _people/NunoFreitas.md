@@ -2,7 +2,7 @@
 given_name: Nuno
 surname: Freitas
 affiliation: ICMAT Madrid
-personal_webpage: [http://www.maia.ub.es/~freitas/]
+personal_webpage: http://www.maia.ub.es/~freitas/
 image: /assets/images/people/nbarroso.jpg
 ---
 
