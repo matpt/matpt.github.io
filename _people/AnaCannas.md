@@ -1,9 +1,9 @@
 ---
-given_name: Edgar
-surname: Costa
-affiliation: Massachusetts Institute of Technology
-personal_webpage: https://math.mit.edu/~edgarc/
-image: /assets/images/people/EdgarCosta.jpg
+given_name: Ana
+surname: Cannas
+affiliation: ETH, Zurich
+personal_webpage: https://people.math.ethz.ch/~acannas/
+image: /assets/images/people/14_eth_photo.jpg
 
 ---
 Ana Cannas earned a licenciatura in mathematics in 1990 from the Instituto Superior Técnico, University of Lisbon.
