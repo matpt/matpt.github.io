@@ -4,8 +4,8 @@ surname: Freitas
 affiliation: ICMAT Madrid
 personal_webpage: [http://www.maia.ub.es/~freitas/]
 image: /assets/images/people/nbarroso.jpg
-
 ---
+
 Nuno Freitas received his Ph.D in 2012 from the University of Barcelona and is currently 
 a research scientist at ICMAT in Madrid.
 He also held various postdoctoral positions, including at the University of Bayreuth, 
