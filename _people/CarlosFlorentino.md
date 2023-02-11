@@ -3,7 +3,7 @@ given_name: Carlos
 surname: Florentino
 affiliation: Faculdade de Ciências, Universidade de Lisboa
 personal_webpage: https://cfloren.wikidot.com/
-image: /assets/images/people/EdgarCosta.jpg
+image: /assets/images/people/CaFlorentino.jpg
 
 ---
 Carlos Florentino was born in Lisbon, has a degree in Physics from IST Lisbon, a Master from Stanford University, 
