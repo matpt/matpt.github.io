@@ -64,7 +64,7 @@ ul.team-members-list li.team-member:last-of-type {
 
 
 <ul class="team-members-list">
-  {% assign sorted = site.people | sort: "surname" %}
+  {% assign sorted = site.members | sort: "surname" %}
   {% for p in sorted %}
     <li class="team-member">
       <div class="team-member-photo">
