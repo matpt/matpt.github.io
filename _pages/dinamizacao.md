@@ -66,6 +66,7 @@ ul.team-members-list li.team-member:last-of-type {
 <ul class="team-members-list">
   {% assign sorted = site.enablers | sort: "surname" %}
   {% for p in sorted %}
+    {% unless p.private %}
     <li class="team-member">
       <div class="team-member-photo">
         {% if p.image %}
@@ -91,6 +92,7 @@ ul.team-members-list li.team-member:last-of-type {
         </p>
       </div>
     </li>
+    {% endunless %}
   {% endfor %}
 </ul>
 </div>
