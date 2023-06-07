@@ -3,7 +3,7 @@ given_name: Ana
 surname: Rodrigues
 affiliation: Univ. of Exeter, UK
 personal_webpage: https://mathematics.exeter.ac.uk/staff/ar409
-image: /assets/images/A.png
+image: /assets/images/14_eth_photo.png
 
 ---
 Ana Rodrigues finished her PhD in Mathematics (Dynamical Systems) in 2007 at the University of Porto. Before arriving at Exeter 
