@@ -3,7 +3,7 @@ given_name: Diogo
 surname: Arsénio
 affiliation: NYU Abu Dhabi, UAE
 personal_webpage: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/diogo-arsenio.html
-image: /assets/images/people/ruiloja.jpg
+image: /assets/images/DiogoArsenio.jpg
 
 ---
 Diogo Arsénio earned his undergraduate degree from the Swiss Federal Institute of Technology, Lausanne (EPFL), 
