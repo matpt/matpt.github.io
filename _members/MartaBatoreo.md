@@ -3,7 +3,7 @@ given_name: Marta
 surname: Batoréo
 affiliation: UFES, Universidade Federal do Espírito Santo, Brazil
 personal_webpage: https://sites.google.com/view/martabatoreo/
-image: /assets/images/people/14_eth_photo.jpg
+image: /assets/images/MartaBatoreo.jpg
 
 ---
 Marta Batoréo is currently an Adjunct Professor at the Federal University of Espírito Santo,
