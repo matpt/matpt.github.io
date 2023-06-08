@@ -3,7 +3,7 @@ given_name: Miguel
 surname: Carvalho
 affiliation: University of Edinburgh, UK
 personal_webpage: https://www.maths.ed.ac.uk/~mdecarv/
-image: /assets/images/people/ruiloja.jpg
+image: /assets/images/MiguelCarvalho.jpg
 
 ---
 Miguel de Carvalho is a Reader in Statistics at the Univ. of Edinburgh.
