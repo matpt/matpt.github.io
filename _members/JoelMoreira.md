@@ -1,11 +1,9 @@
 ---
 given_name: Joel
 surname: Moreira
-affiliation: Northwestern University, USA
+affiliation: Warwick University, UK
 personal_webpage: https://people.math.ethz.ch/~abandeira/
-image: /assets/images/ABandeira.png
+image: /assets/images/JoelMoreira.png
 
 ---
-Afonso Bandeira is a professor at ETH Zurich, 
-who has carried out research in the area of information mathematics, 
-combining tools from probability theory, theoretical statistics and convex optimization.
+Joel Moreira finished his PhD in 2016 at Ohio State University, USA, and is currently an Assistant Professor at the University of Warwick. His research interests are: Ergodic theory, topological dynamics, applications to Ramsey theory and additive combinatorics.
