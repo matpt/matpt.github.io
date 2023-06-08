@@ -2,7 +2,7 @@
 given_name: Joel
 surname: Moreira
 affiliation: Warwick University, UK
-personal_webpage: https://people.math.ethz.ch/~abandeira/
+personal_webpage: https://warwick.ac.uk/fac/sci/maths/people/staff/moreira/
 image: /assets/images/JoelMoreira.jpg
 
 ---
