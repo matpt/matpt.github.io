@@ -3,7 +3,7 @@ given_name: Diogo
 surname: Gomes
 affiliation: KAUST, Saudi Arabia
 personal_webpage: https://www.kaust.edu.sa/en/study/faculty/diogo-gomes
-image: /assets/images/people/DiogoGomes.jpg
+image: /assets/images/DiogoGomes.jpg
 
 ---
 Diogo Gomes’s research interests are in partial differential equations (PDE), 
