@@ -3,7 +3,7 @@ given_name: Marco
 surname: Robalo
 affiliation: Sorbonne Université, IMJ-PRG, France
 personal_webpage: https://marco-robalo.perso.math.cnrs.fr/
-image: /assets/images/people/ruiloja.jpg
+image: /assets/images/MarcoRobalo.jpg
 
 ---
 Marco Robalo is Maitre de Conferences (associate professor) at Sorbonne Université, IMJ-PRG.
