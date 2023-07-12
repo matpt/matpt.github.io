@@ -3,7 +3,7 @@ given_name: Jorge
 surname: Vitória
 affiliation: Univ. degli Studi di Padova, Italy
 personal_webpage: https://sites.google.com/view/jorgevitoria/
-image: /assets/images/people/ruiloja.jpg
+image: /assets/images/people/JorgeVitoria.jpg
 
 ---
 Jorge Vitória completed his PhD at the University of Warwick. His research interests include
