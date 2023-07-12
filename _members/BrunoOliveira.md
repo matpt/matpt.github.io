@@ -3,7 +3,7 @@ given_name: Bruno
 surname: Oliveira
 affiliation: Univ. Miami, USA
 personal_webpage: https://www.math.miami.edu/~bdeolive/
-image: /assets/images/BrunoOliveira.png
+image: /assets/images/BrunoOliveira.jpg
 
 ---
 Bruno Oliveira received his PhD at Columbia University, in 1997 under the supervision of F. Bogomolov.
