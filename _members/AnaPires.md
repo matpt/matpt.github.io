@@ -2,7 +2,7 @@
 given_name: Ana Rita
 surname: Pires
 affiliation: Fordham University, UK
-personal_webpage: https://people.math.ethz.ch/~acannas/
+personal_webpage: https://www.maths.ed.ac.uk/~apires/
 image: /assets/images/AnaRitaPires.jpg
 
 ---
