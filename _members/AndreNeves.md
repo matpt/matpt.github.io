@@ -3,7 +3,7 @@ given_name: André
 surname: Neves
 affiliation: Univ. Chicago, USA
 personal_webpage: https://math.uchicago.edu/~aneves/
-image: /assets/images/AndreNeves.png
+image: /assets/images/AndreNeves.jpg
 
 ---
 André Neves earned his PhD in 2005, at the University of Stanford, under the supervision of R. Schoen.
