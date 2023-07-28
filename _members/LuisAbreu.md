@@ -1,9 +1,9 @@
 ---
-given_name: Luis
+given_name: Luis Daniel
 surname: Abreu
 affiliation: University of Vienna
-personal_webpage: https://biography.omicsonline.org/austria/acoustics-research-institute/abreu-dr-luis-daniel-690961
+personal_webpage: https://www.researchgate.net/profile/Luis-Daniel-Abreu-2
 image: /assets/images/LuisAbreu.jpg
 
 ---
-Luis Daniel Abreu finished his PhD thesis in 2003, in the field of Orthogonal Polynomials and Special Functions. From 2003-2012 he held an Assistant Professor position at the Department of Mathematics of the University of Coimbra. In 2011/2012 he has worked at the University of Vienna at FWF project "Frames and Harmonic analysis". He is currently a member of the research centers NUHAG (Vienna) and CMUC (Coimbra). In 2012 he joined the Acoustics Research Institute.
+Luís Daniel Abreu did his PhD and early research work in Classical Analysis, at the University of Coimbra. From 2012 till 2021 he was at the Acoustics Research Institute (Austrian Academy of Sciences), and developed an interest in the mathematical structures behind signal analysis. Currently, he works in time-frequency analysis, a field at the crossroads of pure and applied mathematics, with manifold connections to other mathematical fields.
