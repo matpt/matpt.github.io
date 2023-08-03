@@ -1,7 +1,7 @@
 ---
 given_name: Diogo
 surname: Gomes
-affiliation: King Abdullah University of Science and Technology (KAUST), Saudi Arabia
+affiliation: King Abdullah Univ. of Science and Technology (KAUST), Saudi Arabia
 personal_webpage: https://www.kaust.edu.sa/en/study/faculty/diogo-gomes
 image: /assets/images/DiogoGomes.jpg
 
