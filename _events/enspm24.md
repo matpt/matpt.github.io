@@ -1,7 +1,7 @@
 ---
 title: Encontro Nacional da SPM 2024
 link: https://enspm2024.spm.pt/
-number: 4
+number: 6
 date_string: July 10-12, 2024
 image: /assets/images/ENSPM22.png
 
