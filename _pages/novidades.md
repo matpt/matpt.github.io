@@ -1,6 +1,6 @@
 ---
 permalink: /novidades/
-title: "Novidades"
+title: "Notícias"
 last_modified_at: 2021-03-16T20:54:41-05:00
 toc: true
 ---
