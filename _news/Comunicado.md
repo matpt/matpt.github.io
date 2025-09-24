@@ -1,6 +1,6 @@
 ---
 title: Comunicado CIM-CNM-SPE-SPM
-link: /assets/FCT/Comunicado-CIM-CNM-SPE-SPM.pdf
+link: /FCT/Comunicado-CIM-CNM-SPE-SPM.pdf
 number: 4
 date_string: September 5, 2025
 image: /assets/images/FCT-logo-black.png
