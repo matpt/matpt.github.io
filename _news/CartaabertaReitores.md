@@ -1,5 +1,5 @@
 ---
-title: Carta aberta: Mais inovação com mais conhecimento
+title: Carta aberta - Mais inovação com mais conhecimento
 link: /FCT/Mais-inovacao-com-mais-conhecimento.pdf
 number: 6
 date_string: October 31, 2025
